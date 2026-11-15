@@ -21,9 +21,9 @@ Allsono turns the phones and Macs you already own into speakers that play in syn
 
 <table>
   <tr>
-    <td><img src="assets/allsono-1.png" alt="Turn your phones into speakers in every room" width="260"></td>
-    <td><img src="assets/allsono-2.png" alt="Set every speaker's volume from your phone" width="260"></td>
-    <td><img src="assets/allsono-3.png" alt="Every room plays in sync" width="260"></td>
+    <td><picture><source media="(prefers-color-scheme: dark)" srcset="assets/allsono-1-dark.png"><img src="assets/allsono-1.png" alt="Turn your phones into speakers in every room" width="260"></picture></td>
+    <td><picture><source media="(prefers-color-scheme: dark)" srcset="assets/allsono-2-dark.png"><img src="assets/allsono-2.png" alt="Set every speaker's volume from your phone" width="260"></picture></td>
+    <td><picture><source media="(prefers-color-scheme: dark)" srcset="assets/allsono-3-dark.png"><img src="assets/allsono-3.png" alt="Every room plays in sync" width="260"></picture></td>
   </tr>
 </table>
 
