@@ -2,7 +2,12 @@
 
 Software engineer from the Netherlands. Most of my time now goes into **Allsono**, an app I build on my own, for Android, Mac and iPhone.
 
-<a href="https://allsono.com"><img src="assets/allsono-banner.png" alt="Allsono: one song, every room" width="100%"></a>
+<a href="https://allsono.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/allsono-banner-dark.png">
+    <img src="assets/allsono-banner.png" alt="Allsono: one song, every room" width="100%">
+  </picture>
+</a>
 
 ## Allsono
 
