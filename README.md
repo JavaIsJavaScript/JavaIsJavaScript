@@ -16,7 +16,7 @@ Allsono turns the phones and computers you already own into speakers that play i
 <p>
   <a href="https://play.google.com/store/apps/details?id=com.allsono.android"><img src="assets/google-play.png" alt="Get it on Google Play" height="48"></a>
   &nbsp;
-  <a href="https://apps.microsoft.com/detail/9NKF53BX17G7"><img src="assets/microsoft-store.png" alt="Download from the Microsoft Store" height="48"></a>
+  <a href="https://apps.microsoft.com/detail/9NKF53BX17G7"><img src="assets/get-it-from-microsoft.png" alt="Download from the Microsoft Store" height="48"></a>
   &nbsp;
   <a href="https://allsono.com/download"><img src="assets/download-mac.png" alt="Download for Mac" height="48"></a>
   &nbsp;
